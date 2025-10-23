@@ -4,7 +4,7 @@
 
 ## 📌 Overview
 The **Healthcare Infant Awakening Detector** is an Arduino-based hardware project designed to **monitor infant sleep status** using multiple sensors and notify parents or caregivers via a connected mobile interface.  
-This project was developed as part of an IEEE UCSD competition, where a team of 4 collaborated to create a low-cost, reliable, and real-time infant sleep monitoring system.
+This project was developed as part of an IEEE UCSD competition, where a team collaborated to create a low-cost, reliable, and real-time infant sleep monitoring system.
 
 ## 🧠 Motivation
 Early detection of infant movement or distress is critical in preventing health complications. Traditional baby monitors rely mostly on audio or video, which can miss subtle physiological signals. This project leverages **multi-sensor fusion** to provide more **accurate and responsive monitoring**.
@@ -20,7 +20,7 @@ Early detection of infant movement or distress is critical in preventing health 
 - **Hardware:** Arduino Uno, Breadboard, Temperature sensor, Vibration sensor, Humidity sensor, Motion sensor, Sound sensor.  
 - **Firmware:** C/C++ (Arduino IDE).  
 - **Communication:** Bluetooth/WiFi module (ESP8266).  
-- **Mobile Interface:** Android app prototype (Java).  
+- **Mobile Interface:** iOS app prototype (proposed).  
 - **Tools:** Soldering station, multimeter, prototyping boards.
 
 ## 🚀 System Architecture
@@ -46,8 +46,8 @@ Early detection of infant movement or distress is critical in preventing health 
 - Add cloud logging and emergency alert features.
 
 ## 👥 Contributors
-- **Zhizhen (Averi) Yu** — Project Lead, Firmware & Hardware Integration  
-- **Ellen (Ruilin) Hu** — Sensor design, mobile interface, testing
+- **Zhizhen (Averi) Yu** — Project Lead, Embedded software Integration, Discord Links
+- **Ellen (Ruilin) Hu** — Sensor design & Soldering, mobile interface, testing
 
 ---
 
